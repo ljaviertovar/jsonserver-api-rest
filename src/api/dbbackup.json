@@ -1,0 +1,61 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Morad name",
+			"username": "Morad",
+			"email": "morad@april.biz",
+			"phone": "989143548471",
+			"companiesId": "1"
+		},
+		{
+			"id": 2,
+			"name": "Farshad name",
+			"username": "Farshad",
+			"email": "farshad@gmail.com",
+			"phone": "989332548474",
+			"companiesId": "2"
+		},
+		{
+			"id": 3,
+			"name": "Leila name",
+			"username": "Leila",
+			"email": "leila@april.biz",
+			"phone": "989215147848",
+			"companiesId": "2"
+		},
+		{
+			"id": 4,
+			"name": "Nastaran name",
+			"username": "Nastaran",
+			"email": "nasi@gmail.com",
+			"phone": "989387845214",
+			"companiesId": "3"
+		},
+		{
+			"id": 5,
+			"name": "Sobhan name",
+			"username": "Sobhan",
+			"email": "sobhan@yahoo.com",
+			"phone": "989354812514",
+			"companiesId": "3"
+		}
+	],
+	"companies": [
+		{
+			"id": 1,
+			"name": "Romaguera-Crona",
+			"catchPhrase": "Multi-layered client-server neural-net"
+		},
+		{
+			"id": 2,
+			"name": "Deckow-Crist",
+			"catchPhrase": "Proactive didactic contingency"
+		},
+		{
+			"id": 3,
+			"name": "Keebler LLC",
+			"catchPhrase": "User-centric fault-tolerant solution"
+		}
+	]
+}
